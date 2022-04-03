@@ -8,6 +8,11 @@ const userData = {
   address: 'Calgary, Canada.',
   projects: [
     {
+      title: 'Virtual Terminal',
+      link: 'https://hub.helcim.com/',
+      imgUrl: '/helcim.png',
+    },
+    {
       title: 'Cookify',
       link: 'https://github.com/gregchlosta/cookify',
       imgUrl: '/cookify.jpg',
@@ -42,14 +47,14 @@ const userData = {
       company: 'Helcim',
       year: 'August 2021 - present',
       companyLink: 'https://www.helcim.com/',
-      desc: 'Developed backend logic and REST APIs using Object-Oriented PHP and MySQL. Implementing new navigation features with Vue.js. Advanced debugging and troubleshooting of internal frameworks and libraries. Writing unit and features test for the new and existing codebase. Refactoring legacy code to meet current industry standards. Providing code reviews for other team members.',
+      desc: 'Leading the frontend development of the Payments Vitrual Terminal project using technologies like Vue.js. Developing backend logic and REST APIs using Object-Oriented PHP and MySQL. Advanced debugging and troubleshooting of internal frameworks and libraries. Writing unit and features test for the new and existing codebase. Refactoring legacy code to meet current industry standards. Providing code reviews for other team members.',
     },
     {
       title: 'Software Programmer',
       company: `Elmer's Manufacturing LTD`,
       year: 'Mar 2021 - August 2021',
       companyLink: 'https://elmersmfg.com/',
-      desc: 'Developed extra functionality for the ERP system. Work with new and existing datasets. Implemented the REST API with Node.js and MS SQL database. Optimized SQL queries and data structure for maximum performance. Developed user-friendly web frontend using technologies like React and Material-UI. Maintaining continuous deployment with Docker',
+      desc: 'Developed extra functionality for the ERP system. Worked with new and existing datasets. Implemented the REST API with Node.js and MS SQL database. Optimized SQL queries and data structure for maximum performance. Developed user-friendly web frontend using technologies like React and Material-UI. Maintaining continuous deployment with Docker',
     },
     {
       title: 'Full Stack Software Developer - Intern',
